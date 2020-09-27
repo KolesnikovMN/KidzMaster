@@ -1,0 +1,15 @@
+.slider-section {
+    background-image: url('../../img/slider-bg.png');
+}
+
+.slider {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.slider-img img {
+    margin-top: 200px;
+    width: 700px;
+    margin-bottom: 87px;
+}

@@ -1,0 +1,5 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css');
+@import url('fonts.css');
+@import url('core.css');
+@import url('blocks/header.css');
+@import url('blocks/slider.css');
